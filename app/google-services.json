@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824738273201",
+    "project_id": "thigk-d0677",
+    "storage_bucket": "thigk-d0677.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824738273201:android:fdd54dfc83306183b60f90",
+        "android_client_info": {
+          "package_name": "com.example.thigk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzj78xYA3eq_Ypc_eegTFXcQCclTbMT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
